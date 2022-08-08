@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\voice-activated light\voice-activated light.kicad_sch</source>
+    <date>2022/8/7 下午 09:10:49</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>voice-activated light.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f05a33f-bf7e-41c1-9694-45efbb1a0314</tstamps>
+    </comp>
+    <comp ref="C1-104">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62b17c0f-21f5-4805-ad44-cb5f3242d45d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc726267-1959-45b2-bff8-4fc58811394a</tstamps>
+    </comp>
+    <comp ref="C2-104">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>981fcd20-7cc7-4d1e-9dc7-aa1994144ce9</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99cf5b89-2b88-4257-b713-0573040a782d</tstamps>
+    </comp>
+    <comp ref="C3-100uF1">
+      <value>C_Polarized_Small_US</value>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8afe3ed0-68f3-4989-9f7c-f0d5ed6bff2f</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f26e2c11-f96b-4ca0-953a-518bbce16cfc</tstamps>
+    </comp>
+    <comp ref="C4-1uF1">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b327eb47-a1a3-4a60-b103-3d8b5ca25ed5</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>524592a6-41e4-46f0-83d0-39ce5d8786bb</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d781d11-2d26-4cd3-87c7-f0753529d189</tstamps>
+    </comp>
+    <comp ref="C6-220uF1">
+      <value>C_Polarized_Small_US</value>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1dadd27-a1f0-4873-bec2-432f1ecc6b1c</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cc6a358-8949-437c-afd3-daf4a7a5d471</tstamps>
+    </comp>
+    <comp ref="C7-30pF1">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b613160f-1d9a-4dc2-854d-050396cf3de2</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a8a7b6e-3b07-45b8-a97d-17df47a26f8f</tstamps>
+    </comp>
+    <comp ref="C8-10uF1">
+      <value>C_Polarized_Small_US</value>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa944c87-76d8-40f1-8f2c-df521481cc10</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c43839e-c01b-4e6f-a16f-3b5c96b058cd</tstamps>
+    </comp>
+    <comp ref="C9-104">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bb1f5cd-4b4b-4ccd-9831-99caf7508f00</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43dc1009-4b24-49e1-920f-42e0be00ec12</tstamps>
+    </comp>
+    <comp ref="C10-104">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c10602e3-eb9d-47f2-ac31-0f69c74f28f3</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf6d50a8-f9cf-49f5-aadf-441a917fbaf4</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4d0f2a8-063a-491d-9428-3c714345dfd7</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cec9d3d-f0e5-4fed-a544-c88304181ab3</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c14deea2-1ab8-4dc1-933f-7c95f01c43b2</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04ae11f6-efaf-42b4-abd9-8c09036ebda7</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23be6f17-e39b-416d-8c7d-9b08ead84a63</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd906520-7150-49e7-b8ff-64ff65f407c9</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6c7ed15-b5e5-46f0-9930-b31a69eaf4c4</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0eabcb30-e1d3-48ee-9841-ce1f6ace0163</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44c5f5f8-9941-4f2e-981d-1d434afbb3b0</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51086948-f051-424b-b200-32963e32e50c</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9fb962c-e0c2-45a7-bb84-b14d421c5d95</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91f18289-21f8-48cf-85cf-e2a65e8f7bdb</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>185775db-1914-46a4-964d-0130ccb156f5</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8de9324-5db8-4806-a15a-589513965dfc</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cf3d6ee-3fb8-4765-9e70-3fb330c4cba6</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e57428d3-dc9b-4b9a-b1b8-117608ce78bc</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e3cd7b9-24ba-4fcc-9bcb-9c9363538bac</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d883713b-05a9-4936-9eb6-dcaa5254ae7b</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>492074dc-7006-46d0-b3a7-cd190d3e5bb2</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ba10a28-ced9-45bb-9fc5-2b8fc7642a49</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a931412e-dc21-49a1-a4ad-1f03fadf9eac</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb9dadf8-ef76-4fa4-802a-13445320a257</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8a8e259-f211-4f06-885b-a0fadc08c5e5</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45fa7bd5-8dd9-4218-a245-7927d1dc9afd</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7935edca-7f6f-4270-a34d-30aeb9a8b45a</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16147dda-8648-4e38-bb9e-1a4266955b08</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0624344-1a5a-42f8-9209-d47019be1d56</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ab28d2f-00bd-4938-807b-300fba68f1bc</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c8f0faf-0106-4191-a6f9-249165cb9d8c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x20</value>
+      <libsource lib="Connector_Generic" part="Conn_01x20" description="Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc51da08-04e4-4f3c-9633-b3c9570bda90</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x20</value>
+      <libsource lib="Connector_Generic" part="Conn_01x20" description="Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b7e775c-5208-4ce8-b142-a7317a3760fa</tstamps>
+    </comp>
+    <comp ref="MK1">
+      <value>Microphone</value>
+      <libsource lib="Device" part="Microphone" description="Microphone"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e43c7606-23aa-4c6c-9201-9e3ffb8643b7</tstamps>
+    </comp>
+    <comp ref="R1-10k1">
+      <value>R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83d9dca3-66ba-4714-a4d4-083ef257d7a5</tstamps>
+    </comp>
+    <comp ref="R6-10R1">
+      <value>R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0950c455-ef82-46e8-bb74-3a441758ce24</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM386</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm386.pdf</datasheet>
+      <libsource lib="Amplifier_Audio" part="LM386" description="Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b483ecc9-6abe-4948-8010-38cecc99b099</tstamps>
+    </comp>
+    <comp ref="VR1-10k1">
+      <value>R_Variable</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="voice-activated light.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e978dfbf-031a-4044-a75d-4f407f59b727</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Audio" part="LM386">
+      <description>Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm386.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>MSSOP*P0.65mm*</fp>
+        <fp>TSSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM386</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm386.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GAIN" type="input"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="V+" type="power_in"/>
+        <pin num="7" name="BYPASS" type="input"/>
+        <pin num="8" name="GAIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x20">
+      <description>Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x20</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small_US">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Microphone">
+      <description>Microphone</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">MK</field>
+        <field name="Value">Microphone</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Trim">
+      <description>Trim-potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Trim</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Audio">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Audio.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D10" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D11" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D12" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D13" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D14" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D15" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D16" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D17" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D18" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D19" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D2" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D20" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D3" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D4" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D5" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D6" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D7" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D8" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D9" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="A0">
+      <node ref="C6-220uF1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="3" name="D1">
+      <node ref="D1" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="4" name="D2">
+      <node ref="D2" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C1-104" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C10-104" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C2-104" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C3-100uF1" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="C9-104" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D10" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D11" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D12" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D13" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D14" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D15" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D16" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D17" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D18" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D19" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D20" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D9" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="MK1" pin="1" pinfunction="-" pintype="passive"/>
+      <node ref="R6-10R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="VR1-10k1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C6-220uF1-Pad1)">
+      <node ref="C6-220uF1" pin="1" pintype="passive"/>
+      <node ref="C7-30pF1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pintype="output"/>
+    </net>
+    <net code="7" name="Net-(C7-30pF1-Pad1)">
+      <node ref="C7-30pF1" pin="1" pintype="passive"/>
+      <node ref="R6-10R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C8-10uF1-Pad1)">
+      <node ref="C8-10uF1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GAIN" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(C8-10uF1-Pad2)">
+      <node ref="C8-10uF1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GAIN" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(C9-104-Pad1)">
+      <node ref="C9-104" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="BYPASS" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(C10-104-Pad1)">
+      <node ref="C10-104" pin="1" pintype="passive"/>
+      <node ref="C4-1uF1" pin="1" pintype="passive"/>
+      <node ref="MK1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="R1-10k1" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D3" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D4" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D5" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D7" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D9" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D12" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(D10-Pad4)">
+      <node ref="D10" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D8" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D13" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(D11-Pad4)">
+      <node ref="D11" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D9" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D14" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D15" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D16" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D17" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D18" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D19" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D20" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(VR1-10k1-Pad1)">
+      <node ref="C4-1uF1" pin="2" pintype="passive"/>
+      <node ref="VR1-10k1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(VR1-10k1-Pad2)">
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="VR1-10k1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="VCC">
+      <node ref="C1-104" pin="1" pintype="passive"/>
+      <node ref="C2-104" pin="1" pintype="passive"/>
+      <node ref="C3-100uF1" pin="1" pintype="passive"/>
+      <node ref="R1-10k1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="33" name="unconnected-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="34" name="unconnected-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="35" name="unconnected-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="36" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="37" name="unconnected-(J1-Pad5)">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="38" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="39" name="unconnected-(J1-Pad7)">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="40" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="41" name="unconnected-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="42" name="unconnected-(J1-Pad11)">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="43" name="unconnected-(J1-Pad12)">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="44" name="unconnected-(J1-Pad13)">
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="45" name="unconnected-(J1-Pad14)">
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="46" name="unconnected-(J1-Pad15)">
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+    </net>
+    <net code="47" name="unconnected-(J1-Pad16)">
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+    </net>
+    <net code="48" name="unconnected-(J1-Pad17)">
+      <node ref="J1" pin="17" pinfunction="Pin_17" pintype="passive"/>
+    </net>
+    <net code="49" name="unconnected-(J1-Pad18)">
+      <node ref="J1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+    </net>
+    <net code="50" name="unconnected-(J1-Pad19)">
+      <node ref="J1" pin="19" pinfunction="Pin_19" pintype="passive"/>
+    </net>
+    <net code="51" name="unconnected-(J1-Pad20)">
+      <node ref="J1" pin="20" pinfunction="Pin_20" pintype="passive"/>
+    </net>
+    <net code="52" name="unconnected-(J2-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="53" name="unconnected-(J2-Pad4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="54" name="unconnected-(J2-Pad5)">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="55" name="unconnected-(J2-Pad6)">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="56" name="unconnected-(J2-Pad7)">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="57" name="unconnected-(J2-Pad8)">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="58" name="unconnected-(J2-Pad9)">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="59" name="unconnected-(J2-Pad10)">
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="60" name="unconnected-(J2-Pad11)">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="61" name="unconnected-(J2-Pad12)">
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="62" name="unconnected-(J2-Pad13)">
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="63" name="unconnected-(J2-Pad14)">
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="64" name="unconnected-(J2-Pad15)">
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
+    </net>
+    <net code="65" name="unconnected-(J2-Pad16)">
+      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive"/>
+    </net>
+    <net code="66" name="unconnected-(J2-Pad17)">
+      <node ref="J2" pin="17" pinfunction="Pin_17" pintype="passive"/>
+    </net>
+    <net code="67" name="unconnected-(J2-Pad18)">
+      <node ref="J2" pin="18" pinfunction="Pin_18" pintype="passive"/>
+    </net>
+    <net code="68" name="unconnected-(J2-Pad19)">
+      <node ref="J2" pin="19" pinfunction="Pin_19" pintype="passive"/>
+    </net>
+    <net code="69" name="unconnected-(J2-Pad20)">
+      <node ref="J2" pin="20" pinfunction="Pin_20" pintype="passive"/>
+    </net>
+  </nets>
+</export>
